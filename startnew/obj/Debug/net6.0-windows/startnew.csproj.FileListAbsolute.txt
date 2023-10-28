@@ -1,0 +1,16 @@
+C:\Users\New One\source\repos\startnew\startnew\bin\Debug\net6.0-windows\startnew.exe
+C:\Users\New One\source\repos\startnew\startnew\bin\Debug\net6.0-windows\startnew.deps.json
+C:\Users\New One\source\repos\startnew\startnew\bin\Debug\net6.0-windows\startnew.runtimeconfig.json
+C:\Users\New One\source\repos\startnew\startnew\bin\Debug\net6.0-windows\startnew.dll
+C:\Users\New One\source\repos\startnew\startnew\bin\Debug\net6.0-windows\startnew.pdb
+C:\Users\New One\source\repos\startnew\startnew\obj\Debug\net6.0-windows\startnew.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\New One\source\repos\startnew\startnew\obj\Debug\net6.0-windows\startnew.AssemblyInfoInputs.cache
+C:\Users\New One\source\repos\startnew\startnew\obj\Debug\net6.0-windows\startnew.AssemblyInfo.cs
+C:\Users\New One\source\repos\startnew\startnew\obj\Debug\net6.0-windows\startnew.csproj.CoreCompileInputs.cache
+C:\Users\New One\source\repos\startnew\startnew\obj\Debug\net6.0-windows\startnew.dll
+C:\Users\New One\source\repos\startnew\startnew\obj\Debug\net6.0-windows\refint\startnew.dll
+C:\Users\New One\source\repos\startnew\startnew\obj\Debug\net6.0-windows\startnew.pdb
+C:\Users\New One\source\repos\startnew\startnew\obj\Debug\net6.0-windows\startnew.genruntimeconfig.cache
+C:\Users\New One\source\repos\startnew\startnew\obj\Debug\net6.0-windows\ref\startnew.dll
+C:\Users\New One\source\repos\startnew\startnew\obj\Debug\net6.0-windows\startnew.Form1.resources
+C:\Users\New One\source\repos\startnew\startnew\obj\Debug\net6.0-windows\startnew.csproj.GenerateResource.cache
